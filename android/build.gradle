@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "io.inway.ringtone.player"
-    compileSdkVersion 28
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 16
